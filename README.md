@@ -12,8 +12,3 @@ Application console développée en langage C permettant de gérer une base de d
 - Ajout d'un nouvel étudiant (ID, Nom, Filière, Moyenne).
 - Affichage formaté de la liste complète.
 - Recherche rapide par identifiant unique.
-
-## Compilation et exécution
-```bash
-gcc main.c -o gestion_etudiants
-./gestion_etudiants
